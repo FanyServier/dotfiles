@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = fany.servier@gmail.com
+	name = Fany Servier
